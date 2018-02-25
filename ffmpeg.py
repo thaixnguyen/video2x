@@ -68,4 +68,4 @@ class FFMPEG:
             outpath {string} -- video output folder
         """
         os.system("{} -i {} -i {}/output-audio.aac -codec copy -shortest {} -y".format(
-self.ffmpeg_path, videoin, outpath, self.outfile))
+            self.ffmpeg_path, videoin, outpath, self.outfile))
