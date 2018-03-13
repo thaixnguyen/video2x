@@ -28,7 +28,7 @@ Download: https://github.com/lltcggie/waifu2x-caffe/releases
 
 After downloading the dependencies, clone the video2x package.
 ~~~~
-$ git clone https://github.com/K4YT3X/video2x.git
+$ git clone https://github.com/thaixnguyen/video2x
 $ cd video2x
 ~~~~
 
